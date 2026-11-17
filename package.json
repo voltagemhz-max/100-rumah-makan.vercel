@@ -1,0 +1,8 @@
+{
+  "name": "rumah-makan-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Web Rumah Makan - Tugas Kelompok (Node.js + Express)",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
